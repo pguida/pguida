@@ -1,6 +1,6 @@
 # Laboratório Nacional de Astrofísica 🚀
 
-![Banner da Empresa](https://www.gov.br/lna/pt-br/arquivos/bannerlna.jpeg)
+![Banner da Empresa](./bannerLNA.jpeg)
 
 ### 👋 Olá! Bem-vindo(a) ao GitHub do Propercio Gurgel Guida Junior
 
