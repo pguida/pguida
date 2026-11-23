@@ -4,6 +4,8 @@
 
 ### 👋 Olá! Bem-vindo(a) ao GitHub do Propercio Gurgel Guida Junior
 
+- Meu repositório pessoal **[github.com/propercioggj](https://github.com/propercioggj)**
+
 ---
 
 ## 🌐 Conecte-se Conosco
